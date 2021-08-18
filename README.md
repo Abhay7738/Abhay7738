@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abhay7738
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning Html,CSS.Javacript
+- 🌱 I’m currently learning Html,  CSS,  Javacript
 - 💞️ I’m looking to collaborate on ..
 - 📫 How to reach me "my email" "abhayvishwakarma7738@gmail.com"
 
